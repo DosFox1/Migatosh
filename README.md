@@ -44,7 +44,7 @@ With Shapeshifter, the system has around 2.7mb of RAM free. However, the display
 
 Audio output is only through HDMI, annoyingly. 
 
-This sysytem can support the other available cores (NanoMac for a 68000 Mac Core, MiSTeryNano for an Atari ST core).
+This system can support the other available cores (NanoMac for a 68000 Mac Core, MiSTeryNano for an Atari ST core).
 
 I guess you could also use this as an Amiga if you really wanted to?
 
