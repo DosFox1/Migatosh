@@ -1,3 +1,7 @@
+IMPORTANT NOTE:
+unfortunately I made an error with the Tang Nano footprint - turns out the Tang Nano 20K is 0.7" wide, not the common 0.6". Seriously. Why.
+Either way VDEV2 will be completed shortly. 
+
 # So what is it?
 This is a board that combines two projects. 
 The first is the incredible NanoMig from MiSTle DEV: https://github.com/MiSTle-Dev/NanoMig (TODO: upload firmware)
